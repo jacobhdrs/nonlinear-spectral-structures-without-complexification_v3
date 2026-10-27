@@ -4,4 +4,5 @@
 
 Preprint and data for non-linear spectral structures without complexification (MSC 37-XX)
 
-# Changed Notice: the total sum of structural torque was previously stated as 0; it is now a^(n+1)/(n+1)!
+# Changed Notice
+the total sum of structural torque was previously stated as 0; it is now a^(n+1)/(n+1)!
